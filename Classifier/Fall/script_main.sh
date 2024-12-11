@@ -1,0 +1,1 @@
+nohup python3 Classifier/Fall/main.py 2>&1 > Classifier/Fall/log.txt &

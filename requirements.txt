@@ -1,0 +1,8 @@
+streamlit
+#opencv-python
+jupyter
+moviepy
+torch
+torchvision
+seaborn
+scikit-learn

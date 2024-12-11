@@ -1,0 +1,1 @@
+python Classifier/Fall/fall_inferencer.py --output-directory outputs/fall/test/ --video-directory outputs/fall/bbox_imposed/visualizations/ --preds-directory outputs/fall/bbox_imposed/predictions/

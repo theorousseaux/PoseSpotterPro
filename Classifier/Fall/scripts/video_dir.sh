@@ -1,0 +1,1 @@
+python Classifier/Fall/fall_inferencer.py --output-directory outputs/fall/test/ --video-directory Data/Fall/test/

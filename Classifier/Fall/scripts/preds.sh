@@ -1,0 +1,1 @@
+python Classifier/Fall/fall_inferencer.py --output-directory outputs/fall/test/ --video-path outputs/fall/bbox_imposed/visualizations/FallBackwardsS9.avi --preds-path outputs/fall/bbox_imposed/predictions/FallBackwardsS9.json
